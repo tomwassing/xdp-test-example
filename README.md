@@ -1,5 +1,5 @@
 # XDP Test Example
-A minimalstic and ready to use example of testing a XDP program in pure C. The example based on the work of https://who.ldelossa.is/posts/unit-testing-ebpf/ but I couldn't get it to work straight away. Enjoy!
+A minimalstic and ready to use example of testing a eBPF/XDP program in pure C. The example based on the work of https://who.ldelossa.is/posts/unit-testing-ebpf/ but I couldn't get it to work straight away. Enjoy!
 
 ## System Requirements (or well, tested on)
 Ubuntu 22.04 LTS with kernel version 5.15.
